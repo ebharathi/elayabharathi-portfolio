@@ -23,7 +23,7 @@ const greeting = {
   username: "Elayabharathi",
   title: "Hi all, I'm Elaya",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / Nextjs and some other cool libraries and frameworks."
+    "A passionate Full Stack Software Developer 🚀 having an experience of building Web Applications with JavaScript / Reactjs / Nodejs / Nextjs and some other cool libraries and frameworks."
   ),
   resumeLink:"https://drive.google.com/file/u/0/d/1fofv_QN85Wtn--EjspkcEi8bfy4-YyLK/view?usp=drivesdk&pli=1",
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -178,21 +178,21 @@ const workExperiences = {
       company: "Robert Bosch",
       companylogo: require("./assets/images/bosch.png"),
       date: "Jan 2024 – Apr 2024",
-      desc:"Designed a documentation website in React.js with Bosch's own modules and design libraries and Integrated Bosch's Login module into the system. Developed Mobile App for push Notification alert when user buys some product using Expo React-Native"
+      // desc:"Designed a documentation website in React.js with Bosch's own modules and design libraries and Integrated Bosch's Login module into the system. Developed Mobile App for push Notification alert when user buys some product using Expo React-Native"
     },
     {
       role: "Fullstack Engineer",
       company: "Travelfika",
       companylogo: require("./assets/images/travelfika.jfif"),
       date: "Aug 2022 – Sep 2023",
-      desc:"Designed a website for Flights, Hotels and Experience booking system. Integrated search, availability, booking and ticketing flow with payment gateway for flights and hotels in frontend and backend. "
+      // desc:"Designed a website for Flights, Hotels and Experience booking system. Integrated search, availability, booking and ticketing flow with payment gateway for flights and hotels in frontend and backend. "
     },
     {
       role: "Front-End Developer",
       company: "Sirma Global",
       companylogo: require("./assets/images/SIRMA.jfif"),
       date: "May 2024 – Present",
-      desc:"Revamp of AngularJS based Back Office module with React.js framework. Engaged in Angular.js based component design for member onboarding platform. Rectified bugs in design and functionality by debugging and implementing solutions."
+      // desc:"Revamp of AngularJS based Back Office module with React.js framework. Engaged in Angular.js based component design for member onboarding platform. Rectified bugs in design and functionality by debugging and implementing solutions."
     },
   ]
 };
